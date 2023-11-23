@@ -51,6 +51,6 @@
   "dependencies": {
     "@unique-nft/utils": "^0.3.13",
     "protobufjs": "^7.1.1",
-    "zod": "^3.21.4"
+    "zod": "3.22.4"
   }
 }
